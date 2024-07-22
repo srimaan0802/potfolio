@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Java Full Stack Developer",
+      "organisation": "7-Eleven",
+      "startDate": "Feb, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on MicroService architecture", "Reduced load times by 50%"],
+      "imageSrc": "history/711.png"
+    },
+    {
+      "role": "Java Developer",
+      "organisation": "IHG",
+      "startDate": "Jan, 2022",
+      "endDate": "Nov, 2022",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/ihg.png"
+    },
+    {
+      "role": "Java/J2EE Developer",
+      "organisation": "Comviva Technologies",
+      "startDate": "May, 2019",
+      "endDate": "Jun, 2021",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/Comviva.png"
+    }
+  ]
